@@ -26,20 +26,19 @@
             android:layout_height="wrap_content"
             android:layout_centerHorizontal="true"
             android:paddingTop="20dp"
-            android:text="GALACTIC CODERS"
-            android:textColor="#b6c6d6"
+            android:text="@string/title"
+            android:textColor="@color/colorPrimaryLight"
             android:textSize="28sp"
             android:fontFamily="@font/fixedsys"/>
 
         <TextView
-            android:id="@+id/quote"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_below="@id/title"
             android:layout_centerHorizontal="true"
             android:paddingLeft="65dp"
-            android:text="The beauty of coding comes from stars"
-            android:textColor="#8695a5"
+            android:text="@string/subtitle"
+            android:textColor="@color/colorPrimary"
             android:textSize="10sp"
             android:fontFamily="@font/fragma_medium"/>
 
@@ -49,8 +48,8 @@
             android:layout_centerHorizontal="true"
             android:layout_alignParentBottom="true"
             android:paddingBottom="8dp"
-            android:text="www.galacticcoders.com"
-            android:textColor="#8695a5"
+            android:text="@string/web_address"
+            android:textColor="@color/colorPrimaryDark"
             android:textSize="10sp"
             android:fontFamily="@font/fragma_medium"/>
 

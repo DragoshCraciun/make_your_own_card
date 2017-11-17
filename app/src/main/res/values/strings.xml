@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Make Your Own Card</string>
+    <string name="title">GALACTIC CODERS</string>
+    <string name="subtitle">The beauty of coding comes from stars</string>
+    <string name="web_address">www.galacticcoders.com</string>
 </resources>
